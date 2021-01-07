@@ -1,4 +1,4 @@
-#`geomeppy` tutorials
+# `geomeppy` tutorials
 
 A collection of Jupyter notebooks copied from https://geomeppy.readthedocs.io/en/latest/index.html
 
